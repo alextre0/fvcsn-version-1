@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Prairie Ridge Wolves logo">
+  <rect width="64" height="64" rx="12" fill="#ffffff"/>
+  <path d="M8 18l8-8 10 4 6-3 6 3 10-4 8 8-4 8 4 10-10 20H18L8 36l4-10z" fill="#7b3655"/>
+  <path d="M32 14v36" stroke="#ffffff" stroke-width="4"/>
+  <path d="M20 26l8 4-2 6-6-2zm24 0l-8 4 2 6 6-2z" fill="#ffffff"/>
+  <path d="M24 44h16l-2 8H26z" fill="#bfbfc4"/>
+</svg>
